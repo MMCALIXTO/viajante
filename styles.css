@@ -464,7 +464,7 @@ select:focus {
     justify-content: space-between;
     align-items: center;
     margin-top: 15px;
-    padding: 1px 15px;
+    padding: 1px 5px;
 }
 
 .extra p {
@@ -496,6 +496,21 @@ select:focus {
     flex-direction: column;
     width: 100px;
 }
+
+.extra .exposuree {
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+}
+
+
+.extra .exposureee {
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+}
+
+
 
 .attributes .attributesList {
     display: flex;
